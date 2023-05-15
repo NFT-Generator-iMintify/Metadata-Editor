@@ -1,4 +1,4 @@
-We create an No-Code NFT Metadate Editor free to use for everyone.
+We create an No-Code NFT Metadata Editor free to use for everyone.
 
 At iMintify, we offer you the best metadata editor tools available. The tools will help you elevate your experience to new heights. Editing your NFT metadata has never been easier thanks to our not only user-friendly and convenient, but also robust and packed features. 
 
